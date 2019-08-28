@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+
+}
+body{
+	 border-style: solid;
+	 width: 100%;
+	 background-image : url("download.jpg");
+	 background-repeat: no-repeat;
+	  background-size: cover;
+}
+
+.start{
+	padding: 5px;
+	margin: 5px;
+}
+#myCvs{ 
+
+  width: 100%;
+}
+em{
+	background-color: black; 
+	color: white;
+
+}
+strong{
+	background-color: black; 
+	color: white;
+	
+}
+button {
+        padding: 10px;
+        display: block;
+        margin-top: 5px;
+      }
